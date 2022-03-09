@@ -12,4 +12,4 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-![Snake animation](https://github.com/Scaramovistk/Scaramovistk/blob/main/sneak.yml)
+![Snake](https://github.com/Scaramovistk/Scaramovistk/blob/main/sneak.yml)
